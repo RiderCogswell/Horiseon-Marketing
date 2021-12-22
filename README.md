@@ -8,6 +8,6 @@ FOLLOW ALONG ON MY JOURNEY!
 <img width="1440" alt="Screen Shot 2021-12-20 at 10 50 06 PM" src="https://user-images.githubusercontent.com/94665080/146884951-dbc7b277-1bba-4eea-8378-d6fcf14ca342.png">
 
 
-Link: https://ridercogswell.github.io/Horiseon-Marketing/ 
+Link: https://ridercogswell.github.io/horiseon-marketing/ 
 
 Thank you!
